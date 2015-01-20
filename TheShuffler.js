@@ -23,10 +23,8 @@ $(function(){
 	$('#enter').click(function(){
 		var input = $('.input').val();
 		$('#only').append('<li>' + input + '</li>');
-				
 		$('button.shuffle').click(function(){
-		$('ul#only li').shuffle();
+			$('ul#only li').shuffle();
 		});
-			
 	});	
 });
