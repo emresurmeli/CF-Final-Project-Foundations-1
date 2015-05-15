@@ -1,3 +1,4 @@
+// Shuffle plug in extracted from the jQuery library
 $(function(){
 	$.fn.shuffle = function() {
 		var allElems = this.get(),
