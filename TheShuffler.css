@@ -1,29 +1,28 @@
-body{
-	background-color: darkblue;
+body {
+  background-color: darkblue;
 	text-align: center;
-	}
-.header{
+}
+li {
+	border: 3px solid black;
+	display: inline-block;
+}
+.header {
 	font-family: Verdana;
 	color: grey;
 	text-align: center;
-	}
-.input{
+}
+.input {
 	width: 201px;
 	margin-bottom: 50px;
-	}
-#one{
+}
+#one {
 	height: 100px;
 	width: 600px;
 	margin-left: auto;
-   	margin-right: auto;
+  margin-right: auto;
 	background-color: grey;
 	margin-bottom: 50px;
-	}
-#only{
+}
+#only {
 	list-style-type: none;
-	}
-li{
-	border: 3px solid black;
-	display: inline-block;
-	}
-	
+}	
