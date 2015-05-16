@@ -2,19 +2,23 @@ body {
   background-color: darkblue;
 	text-align: center;
 }
+
 li {
 	border: 3px solid black;
 	display: inline-block;
 }
+
 .header {
 	font-family: Verdana;
 	color: grey;
 	text-align: center;
 }
+
 .input {
 	width: 201px;
 	margin-bottom: 50px;
 }
+
 #one {
 	height: 100px;
 	width: 600px;
@@ -23,6 +27,7 @@ li {
 	background-color: grey;
 	margin-bottom: 50px;
 }
+
 #only {
 	list-style-type: none;
 }	
