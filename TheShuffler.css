@@ -20,12 +20,12 @@ li {
 }
 
 #one {
-	height: 100px;
-	width: 600px;
-	margin-left: auto;
-  margin-right: auto;
-	background-color: grey;
-	margin-bottom: 50px;
+		height: 100px;
+		width: 600px;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: grey;
+		margin-bottom: 50px;
 }
 
 #only {
